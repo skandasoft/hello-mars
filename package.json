@@ -1,6 +1,6 @@
 {
   "name": "skandasoft-hello-mars",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hello from Mars",
   "main": "index.js",
   "scripts": {
